@@ -1,0 +1,9 @@
+[Activity]
+name=ConstellationsFlashCards
+service_name = org.laptop.ConstellationsFlashCards
+class = ConstellationsFlashCards.ConstellationsFlashCards
+icon = ConstellationsFlashCards
+activity_version = 1
+host_version = 1
+show_launcher = yes
+license=GPLv2+

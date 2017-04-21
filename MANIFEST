@@ -1,0 +1,12 @@
+ConstellationsFlashCards.py
+stars1.py
+constellations.py
+po/POTFILES.in
+po/ConstellationsFlashCards.pot
+NEWS
+activity/ConstellationsFlashCards.svg
+activity/activity.info
+setup.py
+# po/es.po
+# locale/es/LC_MESSAGES/org.laptop.ConstellationsFlashCards.mo
+# locale/es/activity.linfo

@@ -1,0 +1,451 @@
+# Constellations Flash-cards Activity
+# Copyright (C) 2010 by David A. Wallace
+# This file is distributed under the same license as the ConstellationsFlashCards package.
+# Author: David A. Wallace (wa1gsf@comcast.net), 2010
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ConstellationsFlashCards 1.activity\n"
+"Report-Msgid-Bugs-To: http://wiki.laptop.org/go/ConstellationsFlashCards/Bug_tracking\n"
+"POT-Creation-Date: 2010-05-19 10:07-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity/activity.info:2
+msgid "ConstellationsFlashCards"
+msgstr ""
+
+#: ConstellationsFlashCards.py:126
+msgid "Name"
+msgstr ""
+
+#: ConstellationsFlashCards.py:128
+msgid "Tell me"
+msgstr ""
+
+#: ConstellationsFlashCards.py:129
+msgid "Another"
+msgstr ""
+
+#: ConstellationsFlashCards.py:132 ConstellationsFlashCards.py:240
+#: ConstellationsFlashCards.py:250 ConstellationsFlashCards.py:274
+#: ConstellationsFlashCards.py:767
+msgid " constellations seen."
+msgstr ""
+
+#: ConstellationsFlashCards.py:134 ConstellationsFlashCards.py:241
+#: ConstellationsFlashCards.py:251 ConstellationsFlashCards.py:275
+#: ConstellationsFlashCards.py:768
+msgid " correct on first try."
+msgstr ""
+
+#: ConstellationsFlashCards.py:135 ConstellationsFlashCards.py:242
+#: ConstellationsFlashCards.py:252 ConstellationsFlashCards.py:276
+#: ConstellationsFlashCards.py:769
+msgid " correct on second try."
+msgstr ""
+
+#: ConstellationsFlashCards.py:138
+msgid "Version 1.0 (build 10) of 2010.05.19.1500 UT"
+msgstr ""
+
+#: ConstellationsFlashCards.py:140
+msgid "See http://wiki.laptop.org/go/ConstellationFlashCards for help."
+msgstr ""
+
+#: ConstellationsFlashCards.py:238
+msgid "This constellation is named "
+msgstr ""
+
+#: ConstellationsFlashCards.py:258
+msgid "That is correct."
+msgstr ""
+
+#: ConstellationsFlashCards.py:270
+msgid "Sorry, that is not the correct name."
+msgstr ""
+
+#: ConstellationsFlashCards.py:365
+msgid "N"
+msgstr ""
+
+#: ConstellationsFlashCards.py:369
+msgid "S"
+msgstr ""
+
+#: ConstellationsFlashCards.py:373
+msgid "E"
+msgstr ""
+
+#: ConstellationsFlashCards.py:377
+msgid "W"
+msgstr ""
+
+#: ConstellationsFlashCards.py:716
+msgid "Quiz"
+msgstr ""
+
+#: ConstellationsFlashCards.py:717
+msgid "Results"
+msgstr ""
+
+#: ConstellationsFlashCards.py:718
+msgid "About"
+msgstr ""
+
+#: constellations.py:27
+msgid "Andromeda"
+msgstr ""
+
+#: constellations.py:37
+msgid "Antlia"
+msgstr ""
+
+#: constellations.py:41
+msgid "Apus"
+msgstr ""
+
+#: constellations.py:47
+msgid "Aquarius"
+msgstr ""
+
+#: constellations.py:66
+msgid "Aquila"
+msgstr ""
+
+#: constellations.py:79
+msgid "Ara"
+msgstr ""
+
+#: constellations.py:88
+msgid "Aries"
+msgstr ""
+
+#: constellations.py:93
+msgid "Auriga"
+msgstr ""
+
+#: constellations.py:103
+msgid "Bootes"
+msgstr ""
+
+#: constellations.py:115
+msgid "Caelum"
+msgstr ""
+
+#: constellations.py:120
+msgid "Camelopardalis"
+msgstr ""
+
+#: constellations.py:127
+msgid "Cancer"
+msgstr ""
+
+#: constellations.py:134
+msgid "Canis Venatici"
+msgstr ""
+
+#: constellations.py:139
+msgid "Canis Major"
+msgstr ""
+
+#: constellations.py:151
+msgid "Canis Minor"
+msgstr ""
+
+#: constellations.py:154
+msgid "Capricornus"
+msgstr ""
+
+#: constellations.py:167
+msgid "Carina"
+msgstr ""
+
+#: constellations.py:180
+msgid "Cassiopeia"
+msgstr ""
+
+#: constellations.py:186
+msgid "Centaurus"
+msgstr ""
+
+#: constellations.py:200
+msgid "Cepheus"
+msgstr ""
+
+#: constellations.py:208
+msgid "Cetus"
+msgstr ""
+
+#: constellations.py:225
+msgid "Chamaeleon"
+msgstr ""
+
+#: constellations.py:231
+msgid "Circinus"
+msgstr ""
+
+#: constellations.py:235
+msgid "Columba"
+msgstr ""
+
+#: constellations.py:242
+msgid "Coma Berenices"
+msgstr ""
+
+#: constellations.py:246
+msgid "Corona Australis"
+msgstr ""
+
+#: constellations.py:255
+msgid "Corona Borealis"
+msgstr ""
+
+#: constellations.py:263
+msgid "Corvus"
+msgstr ""
+
+#: constellations.py:270
+msgid "Crater"
+msgstr ""
+
+#: constellations.py:280
+msgid "Crux"
+msgstr ""
+
+#: constellations.py:284
+msgid "Cygnus"
+msgstr ""
+
+#: constellations.py:291
+msgid "Delphinus"
+msgstr ""
+
+#: constellations.py:298
+msgid "Dorado"
+msgstr ""
+
+#: constellations.py:303
+msgid "Draco"
+msgstr ""
+
+#: constellations.py:325
+msgid "Equuleus"
+msgstr ""
+
+#: constellations.py:329
+msgid "Eridanus"
+msgstr ""
+
+#: constellations.py:361
+msgid "Fornax"
+msgstr ""
+
+#: constellations.py:367
+msgid "Gemini"
+msgstr ""
+
+#: constellations.py:378
+msgid "Grus"
+msgstr ""
+
+#: constellations.py:390
+msgid "Hercules"
+msgstr ""
+
+#: constellations.py:411
+msgid "Horologium"
+msgstr ""
+
+#: constellations.py:418
+msgid "Hydra"
+msgstr ""
+
+#: constellations.py:436
+msgid "Hydrus"
+msgstr ""
+
+#: constellations.py:441
+msgid "Indus"
+msgstr ""
+
+#: constellations.py:446
+msgid "Lacerta"
+msgstr ""
+
+#: constellations.py:454
+msgid "Leo"
+msgstr ""
+
+#: constellations.py:465
+msgid "Leo Minor"
+msgstr ""
+
+#: constellations.py:469
+msgid "Lepus"
+msgstr ""
+
+#: constellations.py:479
+msgid "Libra"
+msgstr ""
+
+#: constellations.py:487
+msgid "Lupus"
+msgstr ""
+
+#: constellations.py:501
+msgid "Lynx"
+msgstr ""
+
+#: constellations.py:510
+msgid "Lyra"
+msgstr ""
+
+#: constellations.py:518
+msgid "Mensa"
+msgstr ""
+
+#: constellations.py:523
+msgid "Microscopium"
+msgstr ""
+
+#: constellations.py:528
+msgid "Monoceros"
+msgstr ""
+
+#: constellations.py:534
+msgid "Musca"
+msgstr ""
+
+#: constellations.py:541
+msgid "Norma"
+msgstr ""
+
+#: constellations.py:547
+msgid "Octans"
+msgstr ""
+
+#: constellations.py:552
+msgid "Ophiuchus"
+msgstr ""
+
+#: constellations.py:565
+msgid "Orion"
+msgstr ""
+
+#: constellations.py:585
+msgid "Pavo"
+msgstr ""
+
+#: constellations.py:594
+msgid "Pegasus"
+msgstr ""
+
+#: constellations.py:610
+msgid "Perseus"
+msgstr ""
+
+#: constellations.py:628
+msgid "Phoenix"
+msgstr ""
+
+#: constellations.py:636
+msgid "Pictor"
+msgstr ""
+
+#: constellations.py:640
+msgid "Pisces"
+msgstr ""
+
+#: constellations.py:658
+msgid "Piscis Australis"
+msgstr ""
+
+#: constellations.py:666
+msgid "Puppis"
+msgstr ""
+
+#: constellations.py:678
+msgid "Pyxis"
+msgstr ""
+
+#: constellations.py:682
+msgid "Reticulum"
+msgstr ""
+
+#: constellations.py:689
+msgid "Sagitta"
+msgstr ""
+
+#: constellations.py:694
+msgid "Sagittarius"
+msgstr ""
+
+#: constellations.py:712
+msgid "Sculptor"
+msgstr ""
+
+#: constellations.py:717
+msgid "Scorpius"
+msgstr ""
+
+#: constellations.py:733
+msgid "Scutum"
+msgstr ""
+
+#: constellations.py:737
+msgid "Serpens"
+msgstr ""
+
+#: constellations.py:755
+msgid "Sextans"
+msgstr ""
+
+#: constellations.py:761
+msgid "Taurus"
+msgstr ""
+
+#: constellations.py:774
+msgid "Telescopium"
+msgstr ""
+
+#: constellations.py:778
+msgid "Triangulum"
+msgstr ""
+
+#: constellations.py:783
+msgid "Triangulum Australis"
+msgstr ""
+
+#: constellations.py:788
+msgid "Tucana"
+msgstr ""
+
+#: constellations.py:795
+msgid "Ursa Major"
+msgstr ""
+
+#: constellations.py:814
+msgid "Ursa Minor"
+msgstr ""
+
+#: constellations.py:823
+msgid "Vela"
+msgstr ""
+
+#: constellations.py:832
+msgid "Virgo"
+msgstr ""
+
+#: constellations.py:844
+msgid "Volans"
+msgstr ""
+
+#: constellations.py:852
+msgid "Vulpecula"
+msgstr ""
